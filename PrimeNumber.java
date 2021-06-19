@@ -46,4 +46,7 @@ import java.util.Scanner;
 	public void kingKong() {
 		 System.out.print();
 	 }
+	 public void kingKong123() {
+		System.out.print();
+	 }
 	}
