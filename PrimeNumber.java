@@ -46,4 +46,8 @@ import java.util.Scanner;
 	public void kingKong() {
 		 System.out.print();
 	 }
+	
+	 public void ram890() {
+		 System.out.print();
+	 }
 	}
