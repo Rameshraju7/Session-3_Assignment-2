@@ -40,5 +40,8 @@ import java.util.Scanner;
 	    	System.out.println(primeNumber+" is not a prime number");
 	    }
 	 }
+	 public void ram() {
+		 System.out.print();
+	 }
 	
 	}
