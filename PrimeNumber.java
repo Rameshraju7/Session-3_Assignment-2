@@ -53,4 +53,8 @@ import java.util.Scanner;
 	 public void ram890() {
 		 System.out.print();
 	 }
+	 
+	 public void chinna() {
+		 system.out.println("rama");
+		 }
 	}
